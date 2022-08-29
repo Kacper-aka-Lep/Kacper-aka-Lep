@@ -1,5 +1,5 @@
 <h1 align="center">Hi :wave:, I'm Kacper aka Lep</h1>
-<h3 align="center">A young developer from Poland :flag_pl:</h3>
+
 
 
 
